@@ -1,6 +1,0 @@
-[package]
-name = "week4_ex3"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
